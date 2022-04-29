@@ -1,7 +1,7 @@
 # Coder Academy Stadium!
 ## Ruby Terminal Application
 
-By Masood Alam Syed
+By Masood Alam Syed. 
 Link to the repository: https://github.com/masoodsyedd/terminal-application.git 
 
 
