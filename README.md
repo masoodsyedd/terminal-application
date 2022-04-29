@@ -2,7 +2,7 @@
 ## Ruby Terminal Application
 
 By Masood Alam Syed
-Link to the repository: 
+Link to the repository: https://github.com/masoodsyedd/terminal-application.git 
 
 
 ## About the Application
