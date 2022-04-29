@@ -1,8 +1,8 @@
 # Coder Academy Stadium!
 ## Ruby Terminal Application
 
-By Masood Alam Syed. 
-Link to the repository: https://github.com/masoodsyedd/terminal-application.git 
+By Masood Alam Syed
+Link to the repository: 
 
 
 ## About the Application
@@ -21,6 +21,19 @@ At the commencement of this application, the user is greeted and prompted to ent
  - **classes/stadium.rb** maintains the court class
  - **classes/court.rb holds** the court super class in addition to its subclasses
  - **classes/booking.rb** is used when the user has selected the court 
+
+### Instructions for Installation and Use 
+1. You will need Ruby installed on your computer. [Install Ruby here.](https://www.ruby-lang.org/en/)
+2. You will also need the Bundler gem installed. It should come with the main ruby installation, however if you do not have it you can install it with the command of: 
+
+> gem install bundler
+
+3. Clone this repository to your local computer
+4. To install the gems required, go to /src folder in the repository and use the command: 
+
+> bundle install 
+5. Run the app with: 
+> ruby main.rb
 
 ## Design and Planning 
 
